@@ -5,7 +5,7 @@ Olá! Sou Thiago Lisboa, desenvolvedor com foco em resolução de problemas e l�
 
 ## 🚀 Projetos Destacados
 
-### 1. [Jogo da Velha com IA](https://github.com/lisboatm/jogo_da_velha_ia)
+### 1. ([https://github.com/lisboatm/jogo_da_velha_ia](https://github.com/lisboatm/jogo-da-velha.git))
 - **Descrição:** Desenvolvimento de um jogo da velha interativo em Python, utilizando a biblioteca Pygame para a interface gráfica e a implementação de uma IA com o algoritmo Minimax.
 - **Tecnologias:** Python, Pygame
 - **Destaques:**
