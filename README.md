@@ -1,3 +1,7 @@
+Perfeito, Thiago! Aqui está o portfólio atualizado, destacando os **8 melhores projetos** que selecionamos:
+
+---
+
 # Portfólio de Thiago Lisboa
 
 ## 👋 Seja bem-vindo ao meu portfólio!
@@ -5,7 +9,7 @@ Olá! Sou Thiago Lisboa, desenvolvedor com foco em resolução de problemas e l�
 
 ## 🚀 Projetos Destacados
 
-### 1. ([https://github.com/lisboatm/jogo_da_velha_ia](https://github.com/lisboatm/jogo-da-velha.git))
+### 1. [Jogo da Velha com IA]([https://github.com/lisboatm/jogo_da_velha_ia](https://github.com/lisboatm/jogo-da-velha.git) 
 - **Descrição:** Desenvolvimento de um jogo da velha interativo em Python, utilizando a biblioteca Pygame para a interface gráfica e a implementação de uma IA com o algoritmo Minimax.
 - **Tecnologias:** Python, Pygame
 - **Destaques:**
@@ -67,7 +71,3 @@ Olá! Sou Thiago Lisboa, desenvolvedor com foco em resolução de problemas e l�
 ## 📫 Como Me Encontrar
 - [LinkedIn](https://www.linkedin.com/in/thiago-lisboa)
 - [GitHub](https://github.com/lisboatm)
-
----
-
-Espero que este portfólio organize seus projetos de forma clara e impressione potenciais recrutadores! Se precisar ajustar qualquer detalhe ou adicionar informações extras, é só avisar. 🚀😊
