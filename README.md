@@ -72,13 +72,13 @@ Olá! Sou Thiago Lisboa, desenvolvedor com foco em resolução de problemas e l�
 
 Além dos projetos acima, resolvi diversos desafios no Beecrowd que demonstram minhas habilidades em lógica e programação. Aqui estão alguns destaques:
 
-1. [1068 - Balanço de Parênteses I](https://github.com/lisboatm/beecrowd-solutions/blob/main/1068-balanco-de-parenteses-i.py)
+1. [1068 - Balanço de Parênteses I](https://github.com/lisboatm/balanco-parenteses.git)
    - Verificação do balanceamento correto de parênteses em uma expressão.
 
-2. [1176 - Fibonacci em Vetor](https://github.com/lisboatm/beecrowd-solutions/blob/main/1176-fibonacci-em-vetor.py)
+2. [1176 - Fibonacci em Vetor](https://github.com/lisboatm/fibonacci-vetor.git)
    - Cálculo dos primeiros números da sequência de Fibonacci e armazenamento em um vetor.
 
-3. [2381 - Lista de Chamada](https://github.com/lisboatm/beecrowd-solutions/blob/main/2381-lista-de-chamada.py)
+3. [2381 - Lista de Chamada](https://github.com/lisboatm/lista-chamada.git)
    - Determinação do nome que aparece em uma posição específica após ordenar uma lista de nomes.
 
 Para ver todas as minhas soluções de desafios do Beecrowd, acesse [meu repositório completo](https://github.com/lisboatm/beecrowd-solutions).
