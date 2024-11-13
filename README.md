@@ -30,7 +30,7 @@ Olá! Sou Thiago Lisboa, desenvolvedor com foco em resolução de problemas e l�
 - Automação de processos manuais, aumentando a eficiência operacional.
 - Integração de APIs REST para manipulação de dados.
 
-### 4. [Tacógrafo](https://github.com/lisboatm/tacografo)
+### 4. [Tacógrafo](https://github.com/lisboatm/tacografo.git)
 **Descrição:** Programa para calcular a distância total percorrida por caminhões com base em registros de velocidade e tempo de um tacógrafo.  
 **Tecnologias:** Python  
 **Destaques:**
