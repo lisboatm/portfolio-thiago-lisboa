@@ -81,8 +81,6 @@ Além dos projetos acima, resolvi diversos desafios no Beecrowd que demonstram m
 3. [2381 - Lista de Chamada](https://github.com/lisboatm/lista-chamada.git)
    - Determinação do nome que aparece em uma posição específica após ordenar uma lista de nomes.
 
-Para ver todas as minhas soluções de desafios do Beecrowd, acesse [meu repositório completo](https://github.com/lisboatm/beecrowd-solutions).
-
 ---
 
 ## 📫 Como Me Encontrar
