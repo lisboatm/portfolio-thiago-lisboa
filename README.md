@@ -16,7 +16,7 @@ Olá! Sou Thiago Lisboa, desenvolvedor com foco em resolução de problemas e l�
 - Cálculo automático de descontos para estadias prolongadas.
 - Interface de usuário interativa para facilitar o processo de reserva.
 
-### 2. [Jogo da Velha com IA](https://github.com/lisboatm/jogo_da_velha_ia)
+### 2. [Jogo da Velha com IA](https://github.com/lisboatm/jogo-da-velha.git)
 **Descrição:** Desenvolvimento de um jogo da velha interativo em Python, utilizando a biblioteca Pygame para a interface gráfica e a implementação de uma IA com o algoritmo Minimax.  
 **Tecnologias:** Python, Pygame  
 **Destaques:**
