@@ -23,7 +23,7 @@ Olá! Sou Thiago Lisboa, desenvolvedor com foco em resolução de problemas e l�
 - Uso de funções agregadas e subconsultas para identificar o valor mais frequente.
 - Aplicação prática em cenários de análise de dados estatísticos.
 
-### 3. [Verificador de Pagamentos Automatizado](https://github.com/lisboatm/verificador_de_pagamentos)
+### 3. [Verificador de Pagamentos Automatizado](https://github.com/lisboatm/verificador-de-pagamentos-automatizado.git) 
 **Descrição:** Aplicação que automatiza a verificação de pagamentos utilizando um servidor Flask para integração com planilhas Excel.  
 **Tecnologias:** Python, Flask, Pandas  
 **Destaques:**
