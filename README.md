@@ -16,7 +16,7 @@ Olá! Sou Thiago Lisboa, desenvolvedor com foco em resolução de problemas e l�
 - Interface gráfica intuitiva e responsiva.
 - Lógica robusta para detecção de vitórias, empates e validação de movimentos.
 
-### 2. [Análise de Dados com SQL](https://github.com/lisboatm/calcular_moda_postgresql)
+### 2. [Análise de Dados com SQL](https://github.com/lisboatm/moda-tabela.git)  
 **Descrição:** Implementação de uma consulta SQL para determinar a moda em uma tabela de valores inteiros no PostgreSQL.  
 **Tecnologias:** PostgreSQL  
 **Destaques:**
