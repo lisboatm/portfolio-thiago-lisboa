@@ -38,7 +38,7 @@ Olá! Sou Thiago Lisboa, desenvolvedor com foco em resolução de problemas e l�
 - Implementação de cálculos precisos para monitoramento de distâncias.
 - Solução eficiente para empresas de transporte.
 
-### 5. [Expandindo o Negócio](https://github.com/lisboatm/expandindo_negocio)
+### 5. [Expandindo o Negócio](https://github.com/lisboatm/expandindo-negocio.git)
 **Descrição:** Projeto que auxilia uma locadora a identificar cidades onde seus clientes residem para expandir suas franquias.  
 **Tecnologias:** SQL  
 **Destaques:**
