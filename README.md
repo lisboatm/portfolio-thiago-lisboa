@@ -52,7 +52,7 @@ Olá! Sou Thiago Lisboa, desenvolvedor com foco em resolução de problemas e l�
 - Uso de estruturas de dados para otimização de operações logísticas.
 - Resolução de problemas com uso de algoritmos baseados em pilhas.
 
-### 7. [Sequência Secreta](https://github.com/lisboatm/sequencia_secreta)
+### 7. [Sequência Secreta](https://github.com/lisboatm/sequencia-secreta.git)
 **Descrição:** Solução para encontrar a quantidade máxima de números que podem ser marcados em uma sequência específica, garantindo que não haja repetições consecutivas.  
 **Tecnologias:** Python  
 **Destaques:**
