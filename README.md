@@ -45,7 +45,7 @@ Olá! Sou Thiago Lisboa, desenvolvedor com foco em resolução de problemas e l�
 - Consultas SQL para análise de dados geográficos.
 - Geração de relatórios para expansão estratégica.
 
-### 6. [Reorganização de Vagões na Estação PopPush](https://github.com/lisboatm/reorganizacao_vagoes)
+### 6. [Reorganização de Vagões na Estação PopPush](https://github.com/lisboatm/reorganizacao-vagoes.git)
 **Descrição:** Simulação da reorganização de vagões utilizando uma estrutura de pilha para obter a ordem de saída desejada.  
 **Tecnologias:** Python  
 **Destaques:**
